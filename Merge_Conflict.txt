@@ -1,4 +1,2 @@
 What's your favorite sports?
-
-Answers: soccer, weightlifting, running, badminton， hockey
-
+Answers: soccer, weightlifting, hockeyAnswers: soccer, weightlifting, badminton, hockey
